@@ -42,7 +42,6 @@ theme_mode: light # or dark
 avatar: "assets/img/avatar.jpg" # 블로그 메인 이미지 변경을 위한 이미지 경로 입력
 ```
 ***
-<br>
 
 ## (2). _data/authors.yml에 author 추가하기
 `_data/authors.yml`에 아래와 같은 형태로 author 정보를 추가해야 합니다. Author 정보를 추가하지 않으면 나중에 posting을 할때 by 뒤에 author 정보가 나타나지 않습니다.
@@ -53,14 +52,11 @@ SemiDS:
   url: https://github.com/daeheeseol/
 ```
 ***
-<br>
-
 
 ## (3). 블로그 아바타 이미지 변경하기
 블로그 좌측상단 메인 아바타 이미지 변경을 위해 파일을 `assets/img/~` 경로에 저장한 후에 `_config.yml` 내 avartar 환경 변수를 수정하면 됩니다.  
 저의 경우는 아바타 이미지를 `assets/img/avatar.jpg`로 저장해두고 사용중 입니다.  
 ***
-<br>
 
 ## (4). 블로그 사이드바 배경 이미지 변경하기
 블로그 좌측 사이드바의 배경 이미지를 변경하기 위해서는 `_sass/layout/_sidebar.scss` 파일에 변경하고자 하는 이미지 경로를 아래와 같이 입력해주면 됩니다.  
@@ -80,7 +76,6 @@ SemiDS:
   background: url('/assets/img/sidebar.jpg'); // 수정, 이미지 경로 입력
   background-size: auto 100%; // 추가, 이미지 크기에 맞춰서 수정
   background-position: -10px; // 추가, 이미지 크기에 맞춰서 수정
-
   ...
 ```
 
