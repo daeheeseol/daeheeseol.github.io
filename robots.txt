@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daeheeseol.github.io/sitemap.xml
