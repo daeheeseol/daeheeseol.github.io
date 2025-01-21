@@ -1,6 +1,6 @@
 ---
-title: Chirpy theme로 Github 블로그 만들기 (1) 환경 변수 및 이미지 변경 하기 (2025-01 기준)
-description: Chirpy theme로 Github 블로그 만들기
+title: Github Blog by Chirpy theme (1) 환경 변수 및 이미지 변경 하기 (2025-01 기준)
+description: Chirpy theme로 Github Blog 만들기
 author: SemiDS
 date: 2025-01-14 20:00:00 +0900
 categories: [Github Blog]
