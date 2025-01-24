@@ -1,5 +1,5 @@
 ---
-title: Github Blog by Chirpy theme (2) 각종 에러 해결 (2025-01 기준)
+title: Github Blog by Chirpy theme (3) 각종 에러 해결 (2025-01 기준)
 description: Chirpy theme로 Github Blog 만들기
 author: SemiDS
 date: 2025-01-16 20:00:00 +0900
@@ -41,3 +41,11 @@ Github Actions Deploy시 발생하는 위 에러는 `@use 'vendors/bootstrap';` 
 ```shell
 #_sass/vendors #주석 처리
 ```
+
+## (4). Utterances에서 댓글이 업로드 되지 않는 에러
+`Utterances`에서 댓글 작성 후 comment를 눌렀을 때 댓글이 정상적으로 업로드 되지 않는 에러가 발생한 경우는 `github-repository-settings`에서 issue의 활성화 여부를 확인하면 됩니다.  
+아래 사진과 같이 `Features-issues` 부분이 체크가 되어 있으면 됩니다.
+
+![(2)-3](/assets/img/posting/2025-01-16-github-blog-1_3.png)
+
+
