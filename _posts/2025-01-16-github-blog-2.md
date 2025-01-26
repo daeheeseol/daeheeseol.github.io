@@ -1,8 +1,8 @@
 ---
-title: Github Blog by Chirpy theme (3) 각종 에러 해결 (2025-01 기준)
-description: Chirpy theme로 Github Blog 만들기
+title: Github Blog by Chirpy theme (4) 각종 에러 해결
+description: Chirpy theme로 Github Blog 만들기 (2025-01 기준)
 author: SemiDS
-date: 2025-01-16 20:00:00 +0900
+date: 2025-01-17 20:00:00 +0900
 categories: [Github Blog]
 tags: [Github, Chirpy]
 pin: true

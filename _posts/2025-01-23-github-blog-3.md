@@ -1,9 +1,9 @@
 ---
-title: Markdown 언어 기본 문법
-description: Markdown Basics
+title: Github Blog by Chirpy theme (5) Markdown 기본 문법
+description: Chirpy theme로 Github Blog 만들기 (2025-01 기준)
 author: SemiDS
 date: 2025-01-23 20:00:00 +0900
-categories: [Markdown]
+categories: [Github Blog, Markdown]
 tags: [Markdown]
 pin: true
 ---
