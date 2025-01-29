@@ -171,9 +171,11 @@ print("hello world")
 
 [LINK](https://daeheeseol.github.io/)  
 
--이미지 삽입 (자동으로 가운데 정렬)
+-이미지 삽입
 
-![IMAGE](/assets/img/favicons/favicon-96x96.png)
+![IMAGE](/assets/img/favicons/favicon-96x96.png){: .left}  
+
+<br><br><br><br>
 
 -이미지에 링크 연결  
 [![IMAGE+LINK](/assets/img/favicons/favicon-96x96.png)](https://daeheeseol.github.io/)

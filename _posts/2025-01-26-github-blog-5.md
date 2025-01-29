@@ -10,7 +10,7 @@ pin: true
 
 ## (1). sitemap.xml 생성
 블로그 내 콘텐츠들을 Google에서 검색시 노출이 되게 하려면, sitemap.xml 파일을 생성하고 이를 Google Search Console에 등록해주는 과정이 필요합니다. (Naver는 서치어드바이저)  
-Jekyll에서 sitemap.xml 파일을 간편하게 만들기 위해서 아래와 같은 2가지 방법을 사용할 수 있습니다. 
+Jekyll에서 sitemap.xml 파일을 간편하게 만들기 위해서 아래와 같은 2가지 방법을 사용해볼 수 있습니다. 
 
 >- jekyll-sitemap plugin
 >- sitemap.xml 생성을 위한 script
@@ -56,7 +56,6 @@ layout: null
         {% else %}
         <priority>{{ post.sitemap.priority }}</priority>
         {% endif %}
-
     </url>
     {% endfor %}
 </urlset>
@@ -76,6 +75,6 @@ Sitemap: {{ '/sitemap.xml' | relative_url | prepend: site.url }}
 ---
 위와 같은 방법으로 `sitemap.xml`과 `robots.txt`파일을 생성한 후에 local에서 build 해보면 `_site` 경로 내 `sitemap.xml`과 `robots.txt` 파일이 생성 되는걸 확인할 수 있습니다.
 
-참고로, `Chirpy theme`의 경우는 `sitemap.xml`과 `robots.txt`를 자동으로 생성해주는 기능이 이미 내장되어 있기 때문에, `Chirpy theme`를 사용해서 만든 블로그라면 따로 생성을 따로 해주지 않아도 자동으로 생성 됩니다.
+참고로, `Chirpy theme`의 경우는 `sitemap.xml`과 `robots.txt`를 자동으로 생성해주는 기능이 이미 내장되어 있기 때문에, `Chirpy theme`를 사용해서 만든 블로그라면 위에서 언급한 생성 방법을 적용하지 않아도 자동으로 생성 됩니다.
 
 ![1](/assets/img/posting/2025-01-26-github-blog-1_1.png)
