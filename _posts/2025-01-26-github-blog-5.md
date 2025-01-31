@@ -5,7 +5,8 @@ author: SemiDS
 date: 2025-01-16 20:00:00 +0900
 categories: [Github Blog, sitemap]
 tags: [Github, Chirpy]
-pin: true
+render_with_liquid: false
+pin: false
 ---
 
 ## (1). sitemap.xml 생성

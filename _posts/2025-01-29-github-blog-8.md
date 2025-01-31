@@ -32,4 +32,4 @@ D2DB에서 Die의 Pattern은 SEM(Scanning Electron Microscopy, 전자현미경)�
 추가로 다양한 업체에서 D2DB Solution을 구축해서 제공하고 있으며 대표적으로 KLA Tencor (구 Anchor Semiconductor)사의 [D2DB-Pattern Monitor](https://anchorsemi.com/Products/D2DB-PM/), Siemens 사의 [Calibre Defect Management](https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/fab-solutions/calibre-defect-management/) 등이 있습니다.
 
 >![D2DB-PM](/assets/img/posting/2025-01-29-github-blog-2_1.png)
->[[출처: Anchor Semiconductor]](https://anchorsemi.com/Products/D2DB-PM/)
+><p style="text-align: center;"><a href="https://anchorsemi.com/Products/D2DB-PM/">[출처: Anchor Semiconductor]</a></p>

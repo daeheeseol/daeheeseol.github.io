@@ -5,7 +5,7 @@ author: SemiDS
 date: 2025-01-15 20:00:00 +0900
 categories: [Github Blog, Utterances]
 tags: [Github, Chirpy]
-pin: true
+pin: false
 ---
 
 ## (1). Github Actions 실행

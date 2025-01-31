@@ -34,7 +34,7 @@ pin: true
 >Calibre SONR is a feature-based machine learning platform that transfers the layout and process information to features. Calibre SONR machine-learning models can be used for various full-chip applications, including hotspot prediction and analysis, pattern reduction, and coverage check.
 >
 >![Calibre SONR](/assets/img/posting/2025-01-29-github-blog-1_1.png)
->[[출처: Siemens EDA]](https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/fab-solutions/calibre-sonr/)
+><p style="text-align: center;"><a href="https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/fab-solutions/calibre-sonr/">[출처: Siemens EDA]</a></p>
 
 <br>
 

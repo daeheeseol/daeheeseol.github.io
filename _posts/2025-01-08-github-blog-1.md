@@ -5,7 +5,7 @@ author: SemiDS
 date: 2025-01-14 20:00:00 +0900
 categories: [Github Blog]
 tags: [Github, Chirpy]
-pin: true
+pin: false
 ---
 
 ## (1). Local에서 Jekyll 설치 및 실행하기

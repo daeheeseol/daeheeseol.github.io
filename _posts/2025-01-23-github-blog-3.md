@@ -5,7 +5,7 @@ author: SemiDS
 date: 2025-01-23 20:00:00 +0900
 categories: [Github Blog, Markdown]
 tags: [Markdown]
-pin: true
+pin: false
 ---
 
 ## (1). Markdown 이란?

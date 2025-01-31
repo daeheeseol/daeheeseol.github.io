@@ -5,7 +5,7 @@ author: SemiDS
 date: 2025-01-17 20:00:00 +0900
 categories: [Github Blog]
 tags: [Github, Chirpy]
-pin: true
+pin: false
 ---
 
 ## (1). ERROR `/assets/js/dist/home.min.js' not found
