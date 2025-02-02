@@ -3,7 +3,7 @@ title: ADC (Automatic Defect Classification) 란?
 description: ADC에 대해 알아보기
 author: SemiDS
 date: 2025-01-29 12:00:00 +0900
-categories: [Semiconductor, Inspection]
+categories: [Semiconductor, Metrology & Inspection]
 tags: [ADC]
 pin: true
 ---
