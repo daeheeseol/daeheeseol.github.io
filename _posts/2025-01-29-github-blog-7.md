@@ -1,5 +1,5 @@
 ---
-title: DFM (Design For Manufacturability) 란?
+title: DFM (Design For Manufacturability) 이란?
 description: DFM에 대해 알아보기
 author: SemiDS
 date: 2025-01-29 12:00:00 +0900
@@ -32,9 +32,9 @@ pin: true
 예를 들어, Siemens사의 경우는 Hotspot Analysis를 위한 _Calibre SONR_, _Calibre LFD_ 등의 ML 기반 platform을 구축해서 제공하고 있으며, 이외에도 다양한 platform들이 현재도 지속적으로 개발되고 있습니다.
 
 >Calibre SONR is a feature-based machine learning platform that transfers the layout and process information to features. Calibre SONR machine-learning models can be used for various full-chip applications, including hotspot prediction and analysis, pattern reduction, and coverage check.
->
->![Calibre SONR](/assets/img/posting/2025-01-29-github-blog-1_1.png)
-><p style="text-align: center;"><a href="https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/fab-solutions/calibre-sonr/">[출처: Siemens EDA]</a></p>
+
+![Calibre SONR](/assets/img/posting/2025-01-29-github-blog-1_1.png)
+<p style="text-align: center;"><a href="https://eda.sw.siemens.com/en-US/ic/calibre-manufacturing/fab-solutions/calibre-sonr/">[출처: Siemens EDA]</a></p>
 
 <br>
 

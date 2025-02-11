@@ -20,8 +20,8 @@ pin: true
 >- **속도 개선**: 대량의 데이터를 빠르게 처리하여 검사 시간을 단축합니다.  
 >- **비용 절감**: 수율 저하를 방지하고, 효율적인 공정 제어로 비용을 절감합니다.  
 
->![ADC](/assets/img/posting/2025-01-29-github-blog-3_1.png)
-><p style="text-align: center;"><a href="https://www.brique.co.kr/products/adc">[출처: Brique]</a></p>
+![ADC](/assets/img/posting/2025-01-29-github-blog-3_1.png)
+<p style="text-align: center;"><a href="https://www.brique.co.kr/products/adc">[출처: Brique]</a></p>
 
 ADC 기술은 크게 아래와 같은 2가지 방법으로 개발되고 있습니다.
 >- Die-to-Database (D2DB)를 이용한 방법
