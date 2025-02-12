@@ -3,7 +3,7 @@ title: Github Blog by Chirpy theme (1) Local 실행 및 환경 변수 설정하�
 description: Chirpy theme로 Github Blog 만들기 (2025-01 기준)
 author: SemiDS
 date: 2025-01-14 20:00:00 +0900
-categories: [Github Blog]
+categories: [Blog]
 tags: [Github, Chirpy]
 pin: false
 ---

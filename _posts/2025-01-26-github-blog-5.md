@@ -3,7 +3,7 @@ title: Github Blog by Chirpy theme (3) sitemap.xml 및 robots.txt 생성
 description: Chirpy theme로 Github Blog 만들기 (2025-01 기준)
 author: SemiDS
 date: 2025-01-16 20:00:00 +0900
-categories: [Github Blog, sitemap]
+categories: [Blog, sitemap]
 tags: [Github, Chirpy]
 render_with_liquid: false
 pin: false
