@@ -25,7 +25,6 @@ pin: true
 >- Dummy (Fill) Layer 삽입을 통한 Pattern Uniformity 최적화
 >- OPC (Optical proximity correction)를 통한 Layout Pattern 보정
 >- Hotspot Analysis를 통한 취약 Pattern 발굴 및 수정
-{: .prompt-info }
 
 위와 같은 DFM Solution들은 Siemens, Synopsys, Cadence 등 다양한 Electronic Design Automation (EDA) 업체에 의해 개발되고 있으며, 최근에는 AI/ML 기술도 통합해 최적의 DFM을 위한 다양한 방법론을 제공하고 있습니다.  
 <br>

@@ -3,7 +3,7 @@ title: Github Blog by Chirpy theme (2) Github Actions 실행 및 Utterances 추�
 description: Chirpy theme로 Github Blog 만들기 (2025-01 기준)
 author: SemiDS
 date: 2025-01-15 20:00:00 +0900
-categories: [Blog, Utterances]
+categories: [Blog]
 tags: [Github, Chirpy]
 pin: false
 ---
