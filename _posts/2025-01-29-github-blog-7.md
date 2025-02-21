@@ -17,7 +17,7 @@ pin: true
 >- **제조 공정 최적화**: 설계가 제조 공정의 물리적 한계를 넘어가지 않도록 조정하여, 공정 장비와 재료의 성능을 최대로 활용합니다.
 
 즉, DFM은 반도체 제조에서만 사용되는 방법론은 아니지만 반도체 제조 과정이 점점 더 미세화되고 복잡해짐에 따라 DFM의 필요성이 점차 커지고 있으며, 반도체 제조 과정이 매우 복잡하기 때문에 DFM의 적용 방법 및 범위 또한 매우 다양해지고 있습니다.  
-<br>
+
 아래는 DFM을 적용하는 일부 예시를 나열한 것으로 워낙 광범위하기 때문에 한 부서에서 전부 담당하기는 어렵고 다양한 부서가 유기적으로 연결되어 DFM을 수행한다고 할 수 있습니다.
 
 >- Floorplanning & PnR (Place and Route) 최적화 
@@ -27,7 +27,7 @@ pin: true
 >- Hotspot Analysis를 통한 취약 Pattern 발굴 및 수정
 
 위와 같은 DFM Solution들은 Siemens, Synopsys, Cadence 등 다양한 Electronic Design Automation (EDA) 업체에 의해 개발되고 있으며, 최근에는 AI/ML 기술도 통합해 최적의 DFM을 위한 다양한 방법론을 제공하고 있습니다.  
-<br>
+
 예를 들어, Siemens사의 경우는 Hotspot Analysis를 위한 _Calibre SONR_, _Calibre LFD_ 등의 ML 기반 platform을 구축해서 제공하고 있으며, 이외에도 다양한 platform들이 현재도 지속적으로 개발되고 있습니다.
 
 >Calibre SONR is a feature-based machine learning platform that transfers the layout and process information to features. Calibre SONR machine-learning models can be used for various full-chip applications, including hotspot prediction and analysis, pattern reduction, and coverage check.
