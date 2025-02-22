@@ -11,7 +11,7 @@ pin: true
 ## RET (Resolution Enhancement Technique) 란?
 **RET (Resolution Enhancement Technique)**는 반도체 공정에서 노광(Photolithography) 설비의 광학적 한계를 극복하기 위해 도입된 기술로, Wafer에 전사되는 패턴을 보다 정밀하게 구현하기 위해 사용하는 방법입니다.
 
-Photo 공정의 해상도(Resolution)는 사용되는 광원의 파장과 밀접한 관련이 있고 EUV(Extreme Ultraviolet)와 같은 단파장 광원을 활용하여 해상도를 개선하고 있지만, 설비 개발의 복잡성과 높은 공정 비용 등의 문제로 실제 공정에서는 단순히 파장을 줄이는 것만으로는 선폭을 감소시키는데 한계가 있습니다.
+Photo 공정의 해상도(Resolution)는 사용되는 광원의 파장과 밀접한 관련이 있고 EUV(Extreme Ultraviolet)와 같은 단파장 광원을 활용하여 해상도를 개선하고 있지만, 설비 개발의 복잡성과 높은 공정 비용 등의 문제로 실제 공정에서는 파장을 줄이는 것만으로는 선폭을 감소시키는데 한계가 있습니다.
 
 즉, RET는 위와 같은 한계점을 극복하기 위해 노광 설비(파장)를 변경하지 않고 다른 광학적 방법을 이용해 패턴의 해상도를 개선하는 방법이라고 할 수 있습니다.
 
