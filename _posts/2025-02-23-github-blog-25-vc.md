@@ -13,7 +13,7 @@ pin: true
 
 반도체 공정에서는 패턴의 전기적인 결함을 분석하기 위해 VC를 활용합니다. 방출되는 전자의 양에 따라 이미지에 명암 차이가 발생하는 것을 이용해 비정상적인 패턴 상태를 검출하는 방식입니다. 예를 들어, 특정 패턴이 정상적으로 Open 되지 않은 경우에는 방출되는 전자의 양이 줄어 DVC로 보이고, 반대로 패턴간 Short이 생긴 경우에는 전자가 많이 방출되어 BVC로 보이게 됩니다.
 
-일반적으로 ebeam 설비를 통해 VC 검사를 진행하게 되며[[`ebeam 이란?`]]({{ '/posts/github-blog-13/' | absolute_url }}), In-line에서 비파괴 방식으로 패턴간 전기적 연결 상태를 확인할 수 있는 매우 중요한 검사 기법 중 하나입니다. 추가로, VC 검사는 In-line 공정에서뿐만 아니라 Failure Analysis(FA)에서도 불량 위치를 탐지하기 위한 목적으로도 많이 활용됩니다.
+일반적으로 ebeam 설비를 통해 VC 검사를 진행하게 되는데[[`ebeam 이란?`]]({{ '/posts/github-blog-13/' | absolute_url }}), In-line에서 비파괴 방식으로 패턴간 전기적 연결 상태를 확인할 수 있는 매우 중요한 검사 기법 중 하나입니다. 추가로, VC 검사는 In-line 공정에서뿐만 아니라 Failure Analysis(FA)에서도 불량 위치를 탐지하기 위한 목적으로도 많이 활용됩니다.
 
 <img src="/assets/img/posting/2025-02-23-github-blog-25-vc_1.png" alt="VC" width=500>  
 <p style="text-align: center;"><a href="https://ieeexplore.ieee.org/document/4263674">[출처: Mechanism and Application of Negative Charging Mode of Electron Beam Inspection for PMOS Leakage Detection]</a></p>
