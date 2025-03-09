@@ -29,4 +29,5 @@ pin: true
 <img src="/assets/img/posting/2025-03-07-github-blog-30-mpt_1.png" alt="mpt" width=400>  
 <p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Multiple_patterning">[출처: Wikipedia]</a></p>
 
-최근에는 `EUV(Extreme Ultraviolet)` 노광 기술이 도입되면서, 기존에 ArF 기반 MPT를 통해 형성하던 패턴을 EUV로 한 번에 구현하는 것이 가능해졌습니다. 그러나 EUV로도 한번에 구현할 수 없는 초미세 선폭의 경우 여전히 LELE와 같은 MPT 방법이 사용되고 있습니다. 즉, MPT는 Photo 공정의 해상도를 높이는 데 필수적인 핵심 기술로, 앞으로도 반도체 미세화가 지속됨에 따라 중요한 역할을 계속해서 수행할 것으로 예상됩니다.
+최근에는 `EUV(Extreme Ultraviolet)` 노광 기술이 도입되면서, 기존에 ArF 기반 MPT를 통해 형성하던 패턴을 EUV로 한 번에 구현하는 것이 가능해졌습니다. 그러나 EUV로도 한번에 구현할 수 없는 초미세 선폭의 경우 여전히 LELE와 같은 MPT 방법이 사용되고 있습니다.  
+즉, MPT는 Photo 공정에서 해상도를 높이는 데 필수적인 기술로, 앞으로도 반도체 미세화를 위해 핵심적인 역할을 계속해서 수행할 것으로 예상됩니다.
